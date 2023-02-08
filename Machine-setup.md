@@ -30,8 +30,8 @@ xcode-select --install
 export ZSH="/Users/<USERNAME>/.oh-my-zsh"
 ```
 - Install [Homebrew](https://brew.sh/)
-- Install Node and NVM
-- Install git
+- Install [Node and NVM](#node-setup)
+- Install [git](#git-setup)
 - Install Python if needed
 
 ## Node Setup
